@@ -1,0 +1,7 @@
+author = Anshvar
+python = 3.8.7
+packages = [
+    smtplib ,  email.mime.multipart , email.mime.text , time ,  datetime
+]
+Project = email Bot
+this is a original project not copyright()
